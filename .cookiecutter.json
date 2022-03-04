@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Baruch Niebloom",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "niebloomj@gmail.com",
+  "friendly_name": "BL Schedule",
+  "github_user": "niebloomj",
+  "license": "MIT",
+  "package_name": "bl_schedule",
+  "project_name": "bl-schedule",
+  "version": "0.0.0"
+}
